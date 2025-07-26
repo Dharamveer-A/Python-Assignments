@@ -40,26 +40,26 @@ Online shopping/
 
 ## 📷 Sample Output
 
-1.Add Product
-2.Display Products
-3.Update Product
-4.Delete Product
-5.Purchase
-6.Exit
-Enter your choice: 1
-Enter product name: Pen
-Enter product price: 10
-Enter product quantity: 5
-Product added successfully
+1.Add Product <br>
+2.Display Products <br>
+3.Update Product<br>
+4.Delete Product<br>
+5.Purchase<br>
+6.Exit<br>
+Enter your choice: 1<br>
+Enter product name: Pen<br>
+Enter product price: 10<br>
+Enter product quantity: 5<br>
+Product added successfully<br>
 
-You got 10% ₹120 Discount.
-Your cart products are:
-S.No Name Price Quantity
+You got 10% ₹120 Discount.<br>
+Your cart products are:<br>
+S.No Name Price Quantity<br>
 
-Pen 10.0 5
-Sub total :1200.00
-Tax amount :194.40
-Final amount:1274.40
+Pen 10.0 5<br>
+Sub total :1200.00<br>
+Tax amount :194.40<br>
+Final amount:1274.40<br>
 
 
 ---
