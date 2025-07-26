@@ -17,7 +17,7 @@ A modular, menu-driven Python application that simulates a basic retail shopping
 ---
 
 ##  Project Structure<br>
-Online shopping/
+Online shopping/<br>
 ├── Product_Details/<br>
 │ ├── entry_display.py # Add and display products<br>
 │ └── update_delete.py # Update and delete products<br>
