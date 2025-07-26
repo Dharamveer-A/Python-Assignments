@@ -16,14 +16,14 @@ A modular, menu-driven Python application that simulates a basic retail shopping
 
 ---
 
-##  Project Structure
+##  Project Structure<br>
 Online shopping/
-├── Product_Details/
-│ ├── entry_display.py # Add and display products
-│ └── update_delete.py # Update and delete products
-├── Purchase_Billing/
-│ └── billing.py # Purchase and billing functionality
-└── main.py # Main driver with menu
+├── Product_Details/<br>
+│ ├── entry_display.py # Add and display products<br>
+│ └── update_delete.py # Update and delete products<br>
+├── Purchase_Billing/<br>
+│ └── billing.py # Purchase and billing functionality<br>
+└── main.py # Main driver with menu<br>
 
 
 ---
